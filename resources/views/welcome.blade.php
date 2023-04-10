@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <title>SB Admin 2 - Blank</title>
+    <title>SISFO | ALDI VARIASI</title>
     @include('template.head')
 
 </head>
